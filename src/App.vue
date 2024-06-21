@@ -132,7 +132,7 @@ const showToast = ref(false)
           </p>
         </div>
         <div class="flex flex-col justify-start w-full gap-3">
-          <p for="query-type" class="w-full">Query Type *</p>
+          <p class="w-full">Query Type *</p>
           <div class="flex flex-col w-full gap-3 md:flex-row md:gap-4">
             <div
               class="group flex items-center w-full gap-3 px-6 py-3 border rounded-lg has-[:checked]:bg-green-100 has-[:checked]:border-green-600">
